@@ -20,39 +20,22 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 # Skills
 <b>LANGUAGES <b>: <ul>
-<li> C</li> 
-<li>SQL</li> 
-<li> C++</li>
-<li>Python</li> 
-<li> Java</li>  
-<li> HTML/CSS </li> 
-<li>JavaScript </li>
-</ul>
+<li> C , SQL , C++ , Python , Java  , HTML/CSS  , JavaScript </li>
+</ul> 
 
-<b>LIBRARIES OR FRAMEWORKS</b>: <ul> 
-<li>REST</li>
-<li>Flask</li>
-<li>React.js</li>
-<li>Express.js</li>
+<b>LIBRARIES OR FRAMEWORKS</b>: <ul>
+<li> REST , Flask , React.js , Express.js</li>
 </ul>
 
 <b>TECHNOLOGIES</b> : 
 <ul>
- <li>  Git</li>
- <li> MERN</li>
- <li>MySQL</li>
- <li>MongoDB</li>
+ <li>  Git , MERN ,MySQL , MongoDB</li>
+</ul> 
 
-</ul>
 
 <b>CONCEPTS </b>: <ul> 
-<li> OOPs </li>
-<li> Calculus</li>
-<li>Algorithms Data </li>
-<li> Data Structures </li>
-<li>Linear Algebra </li>
+<li> OOPs , Calculus , Algorithms Data , Data Structures , Linear Algebra </li>
 </ul>
-
 
 
 # 📊 GitHub Stats:
