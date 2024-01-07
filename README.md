@@ -19,6 +19,17 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 # 💻 Tech Stack:
  C++ CSS3 Java HTML5 JavaScript Python  MySQL React MongoDB 
 
+# Skills
+<b>LANGUAGES <b>: Python, Java, C++, C, SQL, HTML/CSS, JavaScript.
+
+<b>LIBRARIES OR FRAMEWORKS </b>: NumPy, Pandas, Scikit-learn, TensorFlow PyTorch, Matplotlib, Flask, Express. js, Django, JUnit for Python, React.js, REST
+
+<b>TECHNOLOGIES</b> : MySQL, MongoDB, Android, Git, Docker, Kubernetes, MERN, AWS
+
+<b>CONCEPTS </b>: Algorithms, Data Structures, OOPs, Software Cycle, Agile, CI/CD, Computer Architecture
+
+
+
 📊 GitHub Stats:
 
       
