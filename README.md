@@ -6,7 +6,7 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 - 🌍 I'm based in India.
 - 📫 How to reach me @rajiarani.syal@gmail.com
-🧠 I'm learning Web Development.
+- 🧠 I'm learning Web Development.
 
 <!---
 RajiaRani/RajiaRani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
