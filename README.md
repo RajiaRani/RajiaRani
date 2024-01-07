@@ -4,8 +4,9 @@
 - 🌱 Beyond the programming languages, I also possess a strong command of foundational mathematical concepts like <b> Linear Algebra </b> and <b>Calculus</b>, specifically tailored for the dynamic needs of Computer Science.
 I'm enthusiastic about embracing new challenges and acquiring diverse skills. Let's connect and explore the exciting intersection of my teaching experience and burgeoning tech skills! 🌐💻✨
 
+- 🌍 I'm based in India.
 - 📫 How to reach me @rajiarani.syal@gmail.com
-
+🧠 I'm learning Web Development.
 
 <!---
 RajiaRani/RajiaRani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
