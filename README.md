@@ -10,23 +10,48 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/rajia-rani-935b71187/ ">LinkedIn</a>
-<a href="https://www.instagram.com/reddyr.c">Instagran</a>
-<a href="https://auth.geeksforgeeks.org/user/rajiaracwmt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">GeeksforGeeks</a>
-<a href="https://leetcode.com/user0225zW/">LeetCode</a>
+<a href="https://www.linkedin.com/in/rajia-rani-935b71187/ "><img src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://auth.geeksforgeeks.org/user/rajiaracwmt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">GfG</a>
+<a href="https://leetcode.com/user0225zW/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harichselvam/" height="30" width="40" style="max-width: 100%;"></a>
 
 
 # 💻 Tech Stack:
- C++ CSS3 Java HTML5 JavaScript Python  MySQL React MongoDB 
+ C++ CSS3 Java HTML5 JavaScript Python  MySQL React MongoDB.
 
 # Skills
-<b>LANGUAGES <b>: Python, Java, C++, C, SQL, HTML/CSS, JavaScript.
+<b>LANGUAGES <b>: <ul>
+<li> C</li> 
+<li>SQL</li> 
+<li> C++</li>
+<li>Python</li> 
+<li> Java</li>  
+<li> HTML/CSS </li> 
+<li>JavaScript </li>
+</ul>
 
-<b>LIBRARIES OR FRAMEWORKS </b>: NumPy, Pandas, Scikit-learn, TensorFlow PyTorch, Matplotlib, Flask, Express. js, Django, JUnit for Python, React.js, REST
+<b>LIBRARIES OR FRAMEWORKS</b>: <ul> 
+<li>REST</li>
+<li>Flask</li>
+<li>React.js</li>
+<li>Express.js</li>
+</ul>
 
-<b>TECHNOLOGIES</b> : MySQL, MongoDB, Android, Git, Docker, Kubernetes, MERN, AWS
+<b>TECHNOLOGIES</b> : 
+<ul>
+ <li>  Git</li>
+ <li> MERN</li>
+ <li>MySQL</li>
+ <li>MongoDB</li>
 
-<b>CONCEPTS </b>: Algorithms, Data Structures, OOPs, Software Cycle, Agile, CI/CD, Computer Architecture
+</ul>
+
+<b>CONCEPTS </b>: <ul> 
+<li> OOPs </li>
+<li> Calculus</li>
+<li>Algorithms Data </li>
+<li> Data Structures </li>
+<li>Linear Algebra </li>
+</ul>
 
 
 
