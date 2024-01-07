@@ -10,7 +10,8 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 
 # 🌐 Socials:
- https://www.linkedin.com/in/rajia-rani-935b71187/ 
+ <a href="https://www.linkedin.com/in/rajia-rani-935b71187/ ">LinkedIn</a>
+
 
 💻 Tech Stack:
 C C++ CSS3 Java HTML5 JavaScript Python R Solidity Azure MySQL Canva NumPy Pandas LINUX Postman
