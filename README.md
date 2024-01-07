@@ -51,9 +51,7 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajiaRani&layout=compact" />
 
-<img src="https://camo.githubusercontent.com/1e9efb658f98e7c64ff4a376cc0ee39b79a9e022a5a2fae5903664dc9563da83/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d68617269636873656c76616d63267468656d653d6461726b26686964655f626f726465723d66616c7365" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=RajiaRani&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;">
 
-  
       
     
   
