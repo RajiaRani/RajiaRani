@@ -16,11 +16,11 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 <a href="https://leetcode.com/user0225zW/">LeetCode</a>
 
 
-💻 Tech Stack:
+# 💻 Tech Stack:
  C++ CSS3 Java HTML5 JavaScript Python  MySQL React MongoDB 
 
 📊 GitHub Stats:
-<img src="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId""> 
+
       
       
     
