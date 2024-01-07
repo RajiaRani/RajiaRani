@@ -11,7 +11,8 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/rajia-rani-935b71187/ ">LinkedIn</a>
-<a href="https://www.instagram.com/reddyc.r">Instagran</a>
+<a href="https://www.instagram.com/reddyr.c">Instagran</a>
+<a href="https://auth.geeksforgeeks.org/user/rajiaracwmt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">geeksforgeeks</a>
 
 
 💻 Tech Stack:
