@@ -12,11 +12,12 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/rajia-rani-935b71187/ ">LinkedIn</a>
 <a href="https://www.instagram.com/reddyr.c">Instagran</a>
-<a href="https://auth.geeksforgeeks.org/user/rajiaracwmt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">geeksforgeeks</a>
+<a href="https://auth.geeksforgeeks.org/user/rajiaracwmt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">GeeksforGeeks</a>
+<a href="https://leetcode.com/user0225zW/">LeetCode</a>
 
 
 💻 Tech Stack:
-C C++ CSS3 Java HTML5 JavaScript Python R Solidity Azure MySQL Canva NumPy Pandas LINUX Postman
+ C++ CSS3 Java HTML5 JavaScript Python  MySQL React MongoDB 
 
 📊 GitHub Stats:
 
