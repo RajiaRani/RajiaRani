@@ -8,6 +8,15 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 - 📫 How to reach me @rajiarani.syal@gmail.com
 - 🧠 I'm learning Web Development.
 
+
+# 🌐 Socials:
+ https://www.linkedin.com/in/rajia-rani-935b71187/ 
+
+💻 Tech Stack:
+C C++ CSS3 Java HTML5 JavaScript Python R Solidity Azure MySQL Canva NumPy Pandas LINUX Postman
+
+📊 GitHub Stats:
+
 <!---
 RajiaRani/RajiaRani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
