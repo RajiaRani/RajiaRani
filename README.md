@@ -15,10 +15,7 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 <a href="https://leetcode.com/user0225zW/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harichselvam/" height="30" width="40" style="max-width: 100%;"></a>
 
 
-# 💻 Tech Stack:
- C++ CSS3 Java HTML5 JavaScript Python  MySQL React MongoDB.
-
-# Skills
+# 💻 Tech Skills:
 <b>LANGUAGES <b>: <ul>
 <li> C , SQL , C++ , Python , Java  , HTML/CSS  , JavaScript </li>
 </ul> 
