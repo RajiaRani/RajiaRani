@@ -30,9 +30,12 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-      
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RajiaRani&show_icons=true&theme=radical" />
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajiaRani&layout=compact" />
+
+  
       
     
   
