@@ -6,7 +6,7 @@
 I'm enthusiastic about embracing new challenges and acquiring diverse skills. Let's connect and explore the exciting intersection of my teaching experience and burgeoning tech skills! 🌐💻✨
 
 - 🌍 I'm based in India.
-- 📫 How to reach me @rajiarani.syal@gmail.com or rajiacr143@gmail.com
+- 📫 How to reach me @rajiarani.syal@gmail.com 
 - 🧠 I'm learning Web Development.
 
 
