@@ -32,7 +32,7 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 </ul> 
 
 <b>LIBRARIES OR FRAMEWORKS</b>: <ul>
-<li> REST , Flask , React.js , Express.js, Tailwind</li>
+<li> REST, Bootstrap  , Flask , React.js , Express.js, Tailwind</li>
 </ul>
 
 <b>TECHNOLOGIES</b> : 
