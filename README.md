@@ -1,4 +1,4 @@
-- 👋  Hello Everyone.I'm <b>Rajia Rani</b>.
+- 👋  Hello Everyone......................I'm <b>Rajia Rani</b>.
 - I've been rocking the teaching world for <b>3 years</b> as an <b> Assistant Professor of Chemistry </b> and helping students for over <b>5 years </b>as a tutor in Chemistry (grades 10-12) and Mathematics (grades 6-10). 
 - 👀 Because I love learning, I'm now getting into Web Development to switch to Computer Science and Engineering. I'm good at <b>C, C++, Java, Python, HTML, CSS, JavaScript, SQL, MongoDB, React JS, Git, and Github , Tailwind , Bootstrap, MVC(Model,View,Controller)</b>. Let's dive into the tech world together! 🚀💻
 - 🌱 Beyond the programming languages, I also possess a strong command of foundational mathematical concepts like <b> Linear Algebra </b> and <b>Calculus</b>, specifically tailored for the dynamic needs of Computer Science.
