@@ -18,7 +18,7 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 # 💻 Tech Skills:
 <b>LANGUAGES <b>:<ul>
 <li>
- C++, JavaScript, Python, C
+ C++, JavaScript, Java, Python
 </li>
 </ul> 
 
