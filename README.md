@@ -33,7 +33,7 @@ I'm enthusiastic about embracing new challenges and acquiring diverse skills. Le
 
 
 <b>CONCEPTS </b>: <ul> 
-<li> OOPs , Calculus , Algorithms Data , Data Structures , Linear Algebra </li>
+<li>  Data Structures, Algorithms Data , OOPs , Calculus, Linear Algebra </li>
 </ul>
 
 
