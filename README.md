@@ -21,7 +21,7 @@
 <li><b>Approach:</b> MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
 </ul>
 <p>This project reflects my journey from academia to tech and showcases my ability to build real-world full stack applications.</p>
-<h4>🧠 Core Technical Skills</h4>
+<hr>
 <h4>💭 Looking Ahead</h4>
 <p>
 I’m enthusiastic about exploring the intersection of science, mathematics, and technology. With a strong foundation in Linear Algebra and Calculus, I'm ready to take on complex projects and contribute to impactful tech solutions.
