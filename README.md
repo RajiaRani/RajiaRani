@@ -47,6 +47,12 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 <a href="https://auth.geeksforgeeks.org/user/rajiaracwmt/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user">GfG</a>
 <a href="https://leetcode.com/user0225zW/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harichselvam/" height="30" width="40" style="max-width: 100%;"></a>
 
+<ul>
+  <li><a href="https://www.linkedin.com/in/rajia-rani-935b71187/">Linkdlen </a></li>
+  <li><a> </a></li>
+  <li><a> </a></li>
+</ul>
+
 
 # 💻 Tech Skills:
 <b>LANGUAGES <b>:<ul>
