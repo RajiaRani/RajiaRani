@@ -11,7 +11,7 @@
 <p>
   I'm excited to share my latest full stack project — Wonderlust - a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
 </p>
-<a href="https://lnkd.in/ghpUVdsb"> - 🔗 Live Demo:</a>
+<a href="[https://lnkd.in/ghpUVdsb](https://miniwonderlust-project.onrender.com/listings)">🔗 Live Demo:</a>
 <h4>Tech Stack:</h4>
 <ul>
 <li><b>Frontend:</b> HTML, CSS, JavaScript</li>
