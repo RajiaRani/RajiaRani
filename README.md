@@ -4,15 +4,24 @@ With over <b>4 years</b> of experience as an Assistant Professor of Chemistry an
 - Now, I'm embracing a new challenge — <b>Full Stack Web Development</b> — and have spent the last year immersing myself in technologies like <b>JavaScript, React, Node.js, MongoDB </b>, and more. I’m passionate about 
   building meaningful applications and solving real-world problems through code.
 <h2>🌟 Featured Project: Wonderlust</h2>
-- I'm excited to share my latest full stack project — Wonderlust — a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
+I'm excited to share my latest full stack project — Wonderlust - a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
 - 🔗 Live Demo: <a>https://lnkd.in/ghpUVdsb</a>
 <h4>Tech Stack:</h4>
 <ul>
-  <li>Frontend: HTML, CSS, JavaScript</li>
+<li>Frontend: HTML, CSS, JavaScript</li>
 <li>Backend: Node.js, Express.js</li>
 <li>Database: MongoDB</li>
 <li>Features: User authentication, listing management (CRUD), search, map integration</li>
 <li>Approach: MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
+</ul>
+<p>This project reflects my journey from academia to tech and showcases my ability to build real-world full stack applications.</p>
+<h4>🧠 Core Technical Skills</h4>
+<ul>
+ <li><b>Languages:</b> C, C++, Java, Python</li>
+<li><b>Frontend:</b> HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS</li>
+<li><b>Backend:</b> Node.js, Express.js</li>
+<li><b>Database:</b>MongoDB, SQL</li>
+<li><b>Tools:</b> Git, GitHub, MVC, REST APIs</li>
 </ul>
 
 
