@@ -49,7 +49,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 
 <ul>
   <li><a href="https://www.linkedin.com/in/rajia-rani-935b71187/">Linkdlen </a></li>
-  <li><a> </a></li>
+  <li><a href="https://www.geeksforgeeks.org/user/rajiaracwmt/?_gl=1*rqiwig*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkUZn8csGiIwZ3Axqv5-WpRsvL0MGRYVGqVYCuE1JGb6CXRsngtfq5oaAr7QEALw_wcB">GeeksforGeeks </a></li>
   <li><a> </a></li>
 </ul>
 
