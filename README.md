@@ -8,8 +8,10 @@
   building meaningful applications and solving real-world problems through code.
 </p>
 <h2>🌟 Featured Project: Wonderlust</h2>
-I'm excited to share my latest full stack project — Wonderlust - a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
-- 🔗 Live Demo: <a>https://lnkd.in/ghpUVdsb</a>
+<p>
+  I'm excited to share my latest full stack project — Wonderlust - a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
+</p>
+<a href="https://lnkd.in/ghpUVdsb"> - 🔗 Live Demo:</a>
 <h4>Tech Stack:</h4>
 <ul>
 <li><b>Frontend:</b> HTML, CSS, JavaScript</li>
