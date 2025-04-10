@@ -8,11 +8,11 @@ I'm excited to share my latest full stack project — Wonderlust - a dynamic pla
 - 🔗 Live Demo: <a>https://lnkd.in/ghpUVdsb</a>
 <h4>Tech Stack:</h4>
 <ul>
-<li>Frontend: HTML, CSS, JavaScript</li>
-<li>Backend: Node.js, Express.js</li>
-<li>Database: MongoDB</li>
-<li>Features: User authentication, listing management (CRUD), search, map integration</li>
-<li>Approach: MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
+<li><b>Frontend:</b> HTML, CSS, JavaScript</li>
+<li><b>Backend:</b> Node.js, Express.js</li>
+<li>b>Database:</b> MongoDB</li>
+<li><b>Features:</b> User authentication, listing management (CRUD), search, map integration</li>
+<li><b>Approach:</b> MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
 </ul>
 <p>This project reflects my journey from academia to tech and showcases my ability to build real-world full stack applications.</p>
 <h4>🧠 Core Technical Skills</h4>
@@ -20,7 +20,7 @@ I'm excited to share my latest full stack project — Wonderlust - a dynamic pla
  <li><b>Languages:</b> C, C++, Java, Python</li>
 <li><b>Frontend:</b> HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS</li>
 <li><b>Backend:</b> Node.js, Express.js</li>
-<li><b>Database:</b>MongoDB, SQL</li>
+<li><b>Database:</b> MongoDB, SQL</li>
 <li><b>Tools:</b> Git, GitHub, MVC, REST APIs</li>
 </ul>
 
