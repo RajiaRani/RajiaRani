@@ -23,13 +23,13 @@ I'm excited to share my latest full stack project — Wonderlust - a dynamic pla
 <li><b>Database:</b> MongoDB, SQL</li>
 <li><b>Tools:</b> Git, GitHub, MVC, REST APIs</li>
 </ul>
-
-
-
-- 👀 Because I love learning, I'm now getting into Web Development to switch to Computer Science and Engineering. I'm good at <b>C, C++, Java, Python, HTML, CSS, JavaScript, SQL, MongoDB, React JS, Git, and Github , Tailwind , Bootstrap, MVC(Model,View,Controller)</b>. Let's dive into the tech world together! 🚀💻
-- 🌱 Beyond the programming languages, I also possess a strong command of foundational mathematical concepts like <b> Linear Algebra </b> and <b>Calculus</b>, specifically tailored for the dynamic needs of Computer Science.
-I'm enthusiastic about embracing new challenges and acquiring diverse skills. Let's connect and explore the exciting intersection of my teaching experience and burgeoning tech skills! 🌐💻✨
-
+<h4>💭 Looking Ahead</h4>
+<p>
+I’m enthusiastic about exploring the intersection of science, mathematics, and technology. With a strong foundation in Linear Algebra and Calculus, I'm ready to take on complex projects and contribute to impactful tech solutions.
+</p>
+<p>
+  Let’s connect, collaborate, or build something exciting together!🌐💻✨
+</p>
 - 🌍 I'm based in India.
 - 📫 How to reach me @rajiarani.syal@gmail.com 
 - 🧠 I'm learning Web Development.
