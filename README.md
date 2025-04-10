@@ -42,7 +42,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
   <li>- 🧠 I'm learning Web Development. </li>
 </ul>
 
-<h2> 🌐 Socials </h2>
+<h2> 🌐 Socials:</h2>
 <ul>
   <li><a href="https://www.linkedin.com/in/rajia-rani-935b71187/">Linkdlen </a></li>
   <li><a href="https://www.geeksforgeeks.org/user/rajiaracwmt/?_gl=1*rqiwig*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw2N2_BhCAARIsAK4pEkUZn8csGiIwZ3Axqv5-WpRsvL0MGRYVGqVYCuE1JGb6CXRsngtfq5oaAr7QEALw_wcB">GeeksforGeeks </a></li>
@@ -50,7 +50,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 </ul>
 
 
-# 💻 Tech Skills:
+<h2>💻 Tech Skills:</h2>
 <b>LANGUAGES <b>:<ul>
 <li>
  C++, JavaScript, Java, Python
@@ -72,7 +72,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 </ul>
 
 
-# 📊 GitHub Stats:
+<h2> 📊 GitHub Stats:</h2>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajiaRani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
 </br>
 <div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RajiaRani&show_icons=true&theme=radical" /></div>
