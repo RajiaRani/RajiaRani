@@ -22,13 +22,6 @@
 </ul>
 <p>This project reflects my journey from academia to tech and showcases my ability to build real-world full stack applications.</p>
 <h4>🧠 Core Technical Skills</h4>
-<ul>
- <li><b>Languages:</b> C, C++, Java, Python</li>
-<li><b>Frontend:</b> HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS</li>
-<li><b>Backend:</b> Node.js, Express.js</li>
-<li><b>Database:</b> MongoDB, SQL</li>
-<li><b>Tools:</b> Git, GitHub, MVC, REST APIs</li>
-</ul>
 <h4>💭 Looking Ahead</h4>
 <p>
 I’m enthusiastic about exploring the intersection of science, mathematics, and technology. With a strong foundation in Linear Algebra and Calculus, I'm ready to take on complex projects and contribute to impactful tech solutions.
@@ -50,7 +43,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 </ul>
 
 
-<h2>💻 Tech Skills:</h2>
+<h2>💻 Core Technical Skills:</h2>
 <b>LANGUAGES <b>:<ul>
 <li>
  C++, JavaScript, Java, Python
