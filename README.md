@@ -31,7 +31,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 </p>
 <ul>
   <li>- 🌍 I'm based in India. </li>
-  <li>- 📫 How to reach me @rajiarani.syal@gmail.com  </li>
+  <li>- 📫 How to reach me - rajiarani.syal@gmail.com </li>
   <li>- 🧠 I'm learning Web Development. </li>
 </ul>
 
