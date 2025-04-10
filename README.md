@@ -3,6 +3,19 @@ With over <b>4 years</b> of experience as an Assistant Professor of Chemistry an
 
 - Now, I'm embracing a new challenge — <b>Full Stack Web Development</b> — and have spent the last year immersing myself in technologies like <b>JavaScript, React, Node.js, MongoDB </b>, and more. I’m passionate about 
   building meaningful applications and solving real-world problems through code.
+<h2>🌟 Featured Project: Wonderlust</h2>
+- I'm excited to share my latest full stack project — Wonderlust — a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
+- 🔗 Live Demo: <a>https://lnkd.in/ghpUVdsb</a>
+<h4>Tech Stack:</h4>
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript</li>
+<li>Backend: Node.js, Express.js</li>
+<li>Database: MongoDB</li>
+<li>Features: User authentication, listing management (CRUD), search, map integration</li>
+<li>Approach: MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
+</ul>
+
+
 
 - 👀 Because I love learning, I'm now getting into Web Development to switch to Computer Science and Engineering. I'm good at <b>C, C++, Java, Python, HTML, CSS, JavaScript, SQL, MongoDB, React JS, Git, and Github , Tailwind , Bootstrap, MVC(Model,View,Controller)</b>. Let's dive into the tech world together! 🚀💻
 - 🌱 Beyond the programming languages, I also possess a strong command of foundational mathematical concepts like <b> Linear Algebra </b> and <b>Calculus</b>, specifically tailored for the dynamic needs of Computer Science.
