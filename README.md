@@ -10,7 +10,7 @@ I'm excited to share my latest full stack project — Wonderlust - a dynamic pla
 <ul>
 <li><b>Frontend:</b> HTML, CSS, JavaScript</li>
 <li><b>Backend:</b> Node.js, Express.js</li>
-<li>b>Database:</b> MongoDB</li>
+<li><b>Database:</b> MongoDB</li>
 <li><b>Features:</b> User authentication, listing management (CRUD), search, map integration</li>
 <li><b>Approach:</b> MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
 </ul>
