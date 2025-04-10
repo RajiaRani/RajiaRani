@@ -1,8 +1,12 @@
-- 👋 Hi, I'm <b>Rajia Rani</b> — a passionate educator turned full-stack web developer.
-With over <b>4 years</b> of experience as an Assistant Professor of Chemistry and more than <b>5 years </b> as a tutor, I’ve helped students master concepts in Chemistry (Grades 10–12) and Mathematics (Grades 6–10). My teaching journey sharpened my analytical thinking, communication skills, and love for continuous learning.
+👋 Hi, I'm <b>Rajia Rani</b> — a passionate educator turned full-stack web developer.
+<p>
+  With over <b>4 years</b> of experience as an Assistant Professor of Chemistry and more than <b>5 years </b> as a tutor, I’ve helped students master concepts in Chemistry (Grades 10–12) and Mathematics (Grades 6–10). My teaching journey sharpened my analytical thinking, communication skills, and love for continuous learning.
+</p>
 
-- Now, I'm embracing a new challenge — <b>Full Stack Web Development</b> — and have spent the last year immersing myself in technologies like <b>JavaScript, React, Node.js, MongoDB </b>, and more. I’m passionate about 
+<p>
+  Now, I'm embracing a new challenge — <b>Full Stack Web Development</b> — and have spent the last year immersing myself in technologies like <b>JavaScript, React, Node.js, MongoDB </b>, and more. I’m passionate about 
   building meaningful applications and solving real-world problems through code.
+</p>
 <h2>🌟 Featured Project: Wonderlust</h2>
 I'm excited to share my latest full stack project — Wonderlust - a dynamic platform for users to create, browse, and manage listings with map integration, user authentication, and responsive design.
 - 🔗 Live Demo: <a>https://lnkd.in/ghpUVdsb</a>
