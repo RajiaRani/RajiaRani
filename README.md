@@ -69,7 +69,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajiaRani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
 </br>
 <div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RajiaRani&show_icons=true&theme=radical" /></div>
-<br/>
+</br>
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajiaRani&theme=dark&hide_border=false" /></div>
 
 
