@@ -1,6 +1,6 @@
 👋 Hi, I'm <b>Rajia Rani</b> — a passionate educator turned Full-Stack Web Developer.
 <p>
-  With over <b> 4+ Years</b> of experience as an Assistant Professor of Chemistry and more than <b> 6 years </b> as a tutor, I’ve helped students master concepts in Chemistry (Grades 10–12) and Mathematics (Grades 6–10). My teaching journey sharpened my analytical thinking, communication skills, and love for continuous learning.
+  With over <b> 3+ Years</b> of experience as an Assistant Professor of Chemistry and more than <b> 6 years </b> as a tutor, I’ve helped students master concepts in Chemistry (Grades 10–12) and Mathematics (Grades 6–10). My teaching journey sharpened my analytical thinking, communication skills, and love for continuous learning.
 </p>
 
 <p>
