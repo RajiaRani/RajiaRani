@@ -43,7 +43,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 </ul>
 
 
-<h2>💻 Core Technical Skills:</h2>
+<h2>💻 Core Technical Skills: </h2>
 <b>LANGUAGES <b>:<ul>
 <li>
  C++, JavaScript, Java, Python
@@ -51,7 +51,7 @@ I’m enthusiastic about exploring the intersection of science, mathematics, and
 </ul> 
 
 <b>LIBRARIES OR FRAMEWORKS</b>: <ul>
-<li> REST, Bootstrap  , Flask , React.js , Express.js, Tailwind</li>
+<li> REST, Bootstrap , Flask , React.js , Express.js, Tailwind</li>
 </ul>
 
 <b>TECHNOLOGIES</b> : 
