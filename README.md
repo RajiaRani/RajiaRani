@@ -80,12 +80,10 @@ I’m enthusiastic about exploring the intersection of <b>AI, Quantum Science, a
 ---
 
 <h2>🌐 Socials</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/rajia-rani-935b71187/">LinkedIn</a></li>
-  <li><a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">GeeksforGeeks</a></li>
-  <li><a href="https://leetcode.com/progress/">LeetCode</a></li>
-  <li><a href="https://github.com/RajiaRani">GitHub</a></li>
-</ul>
+<a href="https://www.linkedin.com/in/rajia-rani-935b71187/">LinkedIn</a>
+<a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">GeeksforGeeks</a>
+<a href="https://leetcode.com/progress/">LeetCode</a>
+<a href="https://github.com/RajiaRani">GitHub</a>
 
 ---
 
