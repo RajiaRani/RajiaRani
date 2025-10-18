@@ -15,52 +15,55 @@
 
 ---
 
-<h2>🌟 Featured Project: Wonderlust</h2>
+<h2>🚀 Projects</h2>
+
+<h3>🧠 1️⃣ RAG-ChatBot — Retrieval-Augmented Generation for PDFs</h3>
 <p>
-  I'm excited to share my full stack project — Wonderlust — a dynamic platform where users can create, browse, and manage travel listings with map integration, user authentication, and responsive design.
-</p>
-<a href="https://miniwonderlust-project.onrender.com/listings">🔗 Live Demo</a>
-<h4>Tech Stack:</h4>
-<ul>
-<li><b>Frontend:</b> HTML, CSS, JavaScript</li>
-<li><b>Backend:</b> Node.js, Express.js</li>
-<li><b>Database:</b> MongoDB</li>
-<li><b>Features:</b> User authentication, listing management (CRUD), search, map integration</li>
-<li><b>Approach:</b> MVC architecture, RESTful APIs, responsive & mobile-friendly design</li>
-</ul>
-
-<p>This project reflects my journey from academia to tech and showcases my ability to build real-world full stack applications.</p>
-
----
-
-<h2>🚀 Other Major Projects</h2>
-
-<h3>1️⃣ RAG-ChatBot — Retrieval-Augmented Generation for PDFs</h3>
-<p>
-Developed an intelligent chatbot using OpenAI Embeddings and Hugging Face LLMs on Google Cloud. Implemented chunking, vector search, and citation-based answers using Supabase for accurate PDF-based information retrieval.
+  Built an AI-driven chatbot capable of extracting insights from PDF documents using <b>OpenAI Embeddings</b> and <b>Hugging Face LLMs</b> deployed on <b>Google Cloud</b>.  
+  Implemented document chunking, vector search, and citation-based answers via <b>Supabase</b> for precise information retrieval.  
 </p>
 <ul>
-<li><b>Tech Stack:</b> React, Node.js, Express.js, Supabase, OpenAI, HuggingFace</li>
+<li><b>Tech Used:</b> React • Node.js • Express.js • Supabase • OpenAI API • Hugging Face LLMs • GCP</li>
 <li><a href="https://github.com/RajiaRani/RAG-ChatBot--Based-Information-Retrieval-System-">🔗 GitHub Repo</a></li>
 </ul>
 
-<h3>2️⃣ Abroadhub — Full-Stack Immigration Platform</h3>
-<p>
-Developing a responsive immigration services website with user authentication, admin dashboard, and content management system using the MERN stack. Deployed on Hostinger for business use.
-</p>
-<ul>
-<li><b>Tech Stack:</b> MongoDB, Express.js, React.js, Node.js, Auth, CMS</li>
-<li><a href="https://github.com/RajiaRani/Final-AbroadHub">🔗 GitHub Repo</a> | <a href="https://abroadhub.in/">🌐 Live Demo</a></li>
-</ul>
+---
 
-<h3>3️⃣ MiniChatGPT — MERN-Based AI Chatbot</h3>
+<h3>🤖 2️⃣ MiniChatGPT — MERN-Based AI Chat Application</h3>
 <p>
-Built a ChatGPT-style chatbot using React + Vite, Express, MongoDB, and OpenAI API. Implemented secure API integration, ESLint, and real-time chat streaming.
+  Created a ChatGPT-style AI chat interface with <b>React + Vite</b>, <b>Express</b>, and <b>MongoDB</b>.  
+  Integrated <b>OpenAI API</b> for real-time streaming responses, secure API handling, and a responsive modern UI.
 </p>
 <ul>
+<li><b>Tech Used:</b> React (Vite) • Express.js • MongoDB • OpenAI API • ESLint • Node.js</li>
 <li><a href="https://github.com/RajiaRani/ChatGPT_Mini">🔗 GitHub Repo</a></li>
 </ul>
 
+---
+
+<h3>🌍 3️⃣ Abroadhub — Full-Stack Immigration Services Platform (Production)</h3>
+<p>
+  Developing a responsive web platform for immigration and visa consultation services with <b>user authentication</b>, <b>admin dashboard</b>, and <b>CMS</b> using the <b>MERN stack</b>.  
+  Deployed on <b>Hostinger</b> for real-world business use.
+</p>
+<ul>
+<li><b>Tech Used:</b> MongoDB • Express.js • React.js • Node.js • JWT Auth • CMS • Hostinger</li>
+<li><a href="https://github.com/RajiaRani/Final-AbroadHub">🔗 GitHub Repo</a> | <a href="https://abroadhub.in/">🌐 Live Demo</a></li>
+</ul>
+
+---
+
+<h3>🗺️ 4️⃣ Wonderlust — Full-Stack Travel Listing Platform</h3>
+<p>
+  A dynamic web application that lets users create, browse, and manage travel listings with map integration and authentication.  
+  Follows MVC architecture and RESTful APIs for scalable design.
+</p>
+<ul>
+<li><b>Tech Used:</b> HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • REST API</li>
+<li><a href="https://github.com/RajiaRani/MiniWonderLust-Project">🔗 GitHub Repo</a> | <a href="https://miniwonderlust-project.onrender.com/listings">🌐 Live Demo</a></li>
+</ul>
+
+---
 ---
 
 <h4>💭 Looking Ahead</h4>
