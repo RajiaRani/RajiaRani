@@ -1,10 +1,16 @@
-👋 Hi, I'm <b>Rajia Rani</b> — a passionate educator turned Full-Stack Web Developer and Machine Learning Developer.
+👋 Hi, I'm <b>Rajia Rani</b> — <b>AI & Full-Stack Developer</b> and <b>Co-Founder of Majorana AI Labs Pvt. Ltd.</b>  
 <p>
-  With over <b>4+ years</b> of experience as an Assistant Professor of Chemistry and more than <b>5+ years</b> as a tutor, I’ve helped students master concepts in Chemistry (Grades 10–12) and Mathematics (Grades 6–10). My teaching journey sharpened my analytical thinking, communication skills, and love for continuous learning.
+  As the Co-Founder of <b>Majorana AI Labs</b>, a deep-tech startup pioneering innovations in Artificial Intelligence and Quantum Computing, I lead initiatives that bridge science, data, and software to create research-driven products.  
 </p>
 
 <p>
-  Now, I'm embracing a new challenge — <b>Full Stack Web Development & AI</b> — and have spent the last year immersing myself in technologies like <b>JavaScript, React, Node.js, MongoDB, Python</b>, and more. I’m passionate about building meaningful applications and solving real-world problems through code.
+  I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> — developing systems that connect computational intelligence with real-world scientific and educational problems.  
+  Alongside AI, I’m also a <b>Full-Stack Developer</b> who enjoys building secure, scalable, and visually engaging web applications using technologies like <b>React, Node.js, MongoDB,</b> and <b>Express</b>.
+</p>
+
+<p>
+  With over <b>4+ years</b> of experience as an <b>Assistant Professor of Chemistry</b> and more than <b>5+ years</b> as a tutor, I’ve guided students in mastering Chemistry (Grades 10–12) and Mathematics (Grades 6–10).  
+  My journey from educator to developer has strengthened my problem-solving mindset, analytical precision, and commitment to continuous learning.  
 </p>
 
 ---
