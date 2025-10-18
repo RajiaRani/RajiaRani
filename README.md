@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  With over <b>4+ years</b> of experience as an <b>Assistant Professor of Chemistry</b> and more than <b>5+ years</b> as a tutor, I’ve guided students in mastering Chemistry (Grades 10–12) and Mathematics (Grades 6–10).  
+  With over <b>4+ years</b> of experience as a <b> Chemistry Eductor </b> and more than <b>5+ years</b> as a tutor, I’ve guided students in mastering Chemistry (Grades 10–12) and Mathematics (Grades 6–10).  
   My journey from educator to developer has strengthened my problem-solving mindset, analytical precision, and commitment to continuous learning.  
 </p>
 
