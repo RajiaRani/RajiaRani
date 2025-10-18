@@ -64,7 +64,6 @@
 </ul>
 
 ---
----
 
 <h4>💭 Looking Ahead</h4>
 <p>
