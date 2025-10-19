@@ -10,8 +10,7 @@
 
 </ul>
 <h2>🌐 Socials</h2>
-<b> <a href="https://www.linkedin.com/in/rajia-rani-935b71187/">LinkedIn</a> • <a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">GeeksforGeeks</a> • <a href="https://leetcode.com/progress/">LeetCode</a> •<a href="https://github.com/RajiaRani">GitHub</a> 
-<li>📫 Email: <a href="mailto:rajiarani.syal@gmail.com">rajiarani.syal@gmail.com</a></li>
+<b> <a href="https://www.linkedin.com/in/rajia-rani-935b71187/">LinkedIn</a> • <a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">GeeksforGeeks</a> • <a href="https://leetcode.com/progress/">LeetCode</a> •<a href="https://github.com/RajiaRani">GitHub</a></li>
 </b>
 
 ---
