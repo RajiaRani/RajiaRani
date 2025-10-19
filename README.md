@@ -15,56 +15,6 @@
 
 ---
 
-<h2>🚀 Projects</h2>
-
-<h3>🧠 1️⃣ RAG-ChatBot — Retrieval-Augmented Generation for PDFs</h3>
-<p>
-  Built an AI-driven chatbot capable of extracting insights from PDF documents using <b>OpenAI Embeddings</b> and <b>Hugging Face LLMs</b> deployed on <b>Google Cloud</b>.  
-  Implemented document chunking, vector search, and citation-based answers via <b>Supabase</b> for precise information retrieval.  
-</p>
-<ul>
-<li><b>Tech Used:</b> React • Node.js • Express.js • Supabase • OpenAI API • Hugging Face LLMs • GCP</li>
-<li><a href="https://github.com/RajiaRani/RAG-ChatBot--Based-Information-Retrieval-System-">🔗 GitHub Repo</a></li>
-</ul>
-
----
-
-<h3>🤖 2️⃣ MiniChatGPT — MERN-Based AI Chat Application</h3>
-<p>
-  Created a ChatGPT-style AI chat interface with <b>React + Vite</b>, <b>Express</b>, and <b>MongoDB</b>.  
-  Integrated <b>OpenAI API</b> for real-time streaming responses, secure API handling, and a responsive modern UI.
-</p>
-<ul>
-<li><b>Tech Used:</b> React (Vite) • Express.js • MongoDB • OpenAI API • ESLint • Node.js</li>
-<li><a href="https://github.com/RajiaRani/ChatGPT_Mini">🔗 GitHub Repo</a></li>
-</ul>
-
----
-
-<h3>🌍 3️⃣ Abroadhub — Full-Stack Immigration Services Platform (Production)</h3>
-<p>
-  Developing a responsive web platform for immigration and visa consultation services with <b>user authentication</b>, <b>admin dashboard</b>, and <b>CMS</b> using the <b>MERN stack</b>.  
-  Deployed on <b>Hostinger</b> for real-world business use.
-</p>
-<ul>
-<li><b>Tech Used:</b> MongoDB • Express.js • React.js • Node.js • JWT Auth • CMS • Hostinger</li>
-<li><a href="https://github.com/RajiaRani/Final-AbroadHub">🔗 GitHub Repo</a> | <a href="https://abroadhub.in/">🌐 Live Demo</a></li>
-</ul>
-
----
-
-<h3>🗺️ 4️⃣ Wonderlust — Full-Stack Travel Listing Platform</h3>
-<p>
-  A dynamic web application that lets users create, browse, and manage travel listings with map integration and authentication.  
-  Follows MVC architecture and RESTful APIs for scalable design.
-</p>
-<ul>
-<li><b>Tech Used:</b> HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • REST API</li>
-<li><a href="https://github.com/RajiaRani/MiniWonderLust-Project">🔗 GitHub Repo</a> | <a href="https://miniwonderlust-project.onrender.com/listings">🌐 Live Demo</a></li>
-</ul>
-
----
-
 <h4>💭 Looking Ahead</h4>
 <p>
 I’m enthusiastic about exploring the intersection of <b>AI, Quantum Science, and Web Development</b>. With a strong foundation in Linear Algebra, Calculus, and Quantum Mechanics, I'm ready to take on complex projects and contribute to impactful tech solutions.
