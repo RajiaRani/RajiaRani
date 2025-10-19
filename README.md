@@ -7,12 +7,6 @@
   I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> — developing systems that connect computational intelligence with real-world scientific and educational problems.  
   Alongside AI, I’m also a <b>Full-Stack Developer</b> who enjoys building secure, scalable, and visually engaging web applications using technologies like <b>React, Node.js, MongoDB,</b> and <b>Express</b>.
 </p>
-
-<p>
-  With over <b>4+ years</b> of experience as a <b> Chemistry Eductor </b> and more than <b>5+ years</b> as a tutor, I’ve guided students in mastering Chemistry (Grades 10–12) and Mathematics (Grades 6–10).  
-  My journey from educator to developer has strengthened my problem-solving mindset, analytical precision, and commitment to continuous learning.  
-</p>
-
 ---
 
 <h4>💭 Looking Ahead</h4>
