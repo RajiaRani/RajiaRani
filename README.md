@@ -7,8 +7,6 @@
   I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> — developing systems that connect computational intelligence with real-world scientific and educational problems.  
   Alongside AI, I’m also a <b>Full-Stack Developer</b> who enjoys building secure, scalable, and visually engaging web applications using technologies like <b>React, Node.js, MongoDB,</b> and <b>Express</b>.
 </p>
----
-
 <h4>💭 Looking Ahead</h4>
 
 <p>Let’s connect, collaborate, or build something exciting together! 🌐💻✨</p>
