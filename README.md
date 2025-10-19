@@ -34,14 +34,6 @@
 - Experience deploying secure, documented pipelines for AI and web applications  
 - Strong interdisciplinary foundation bridging **Science, Mathematics, and Computing**
 
----
-
-<h2>📊 GitHub Stats:</h2>
-<div><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=RajiaRani&show_icons=true&theme=radical" /></div>
-</br>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=RajiaRani&theme=dark&hide_border=false" /></div>
-
----
 
 <!---
 RajiaRani/RajiaRani is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
