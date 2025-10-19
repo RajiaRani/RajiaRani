@@ -13,7 +13,6 @@
   <li><a href="https://www.linkedin.com/in/rajia-rani-935b71187/"><b>LinkedIn</b></a></li>
   <li><a href="https://www.geeksforgeeks.org/user/rajiaracwmt/"><b>GeeksforGeeks</b></a></li>
   <li><a href="https://leetcode.com/progress/"><b>LeetCode</b></a></li>
-  <li><a href="https://github.com/RajiaRani"><b>GitHub</b></a></li>
 </ul>
 
 ---
