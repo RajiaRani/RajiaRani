@@ -16,7 +16,6 @@
 ---
 
 ## 📈 Highlights
-- 4+ years teaching Chemistry (UG & Senior Secondary); Head of Organic Chemistry Lab  
 - Co-Founder of **Majorana AI Labs Pvt. Ltd. (Jan 2025)** — building AI & Quantum Computing solutions  
 - Experience deploying secure, documented pipelines for AI and web applications  
 - Strong interdisciplinary foundation bridging **Science, Mathematics, and Computing**
