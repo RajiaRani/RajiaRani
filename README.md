@@ -8,12 +8,13 @@
 </p>
 
 </ul>
-<h2>Social</h2>
-<p>
-<a href="https://www.linkedin.com/in/rajia-rani-935b71187/">LinkedIn</a> <br/>
-<a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">GeeksforGeeks</a> <br/>
-<a href="https://leetcode.com/progress/">LeetCode</a> <br/>
-</p>
+<h2>🌐 Social</h2>
+<ul>
+  <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/rajia-rani-935b71187/">linkedin.com/in/rajia-rani-935b71187</a></li>
+  <li><b>GeeksforGeeks:</b> <a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">geeksforgeeks.org/user/rajiaracwmt</a></li>
+  <li><b>LeetCode:</b> <a href="https://leetcode.com/progress/">leetcode.com/progress</a></li>
+  <li><b>GitHub:</b> <a href="https://github.com/RajiaRani">github.com/RajiaRani</a></li>
+</ul>
 
 ---
 
