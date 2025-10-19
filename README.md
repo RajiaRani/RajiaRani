@@ -34,20 +34,6 @@ I’m enthusiastic about exploring the intersection of <b>AI, Quantum Science, a
 
 ---
 
-# 🧠 Technical Skills
-
-**Languages:** JavaScript (ES6+), Python, Java, C++, Scala (Basic)  
-**Frontend:** React.js, HTML, CSS, Tailwind CSS, Bootstrap, Material UI  
-**Backend:** Node.js, Express.js, Flask • RESTful APIs, MVC  
-**Databases:** MongoDB, MySQL  
-**Cloud & DevOps:** AWS, GCP, Azure, Docker, Cloud Computing  
-**AI/ML & GenAI:** NLP, Transformers, Diffusion Models, LLMs, Tokenization (BPE/WordPiece), SentencePiece, Vector Search, Computer Vision  
-**Tools:** Git, GitHub, Postman, Hoppscotch, Figma, Hostinger  
-**Core Concepts:** DSA, OOP, Statistics, Probability, Optimization  
-**Scientific Expertise:** Computational Chemistry, Linear Algebra, Calculus, Quantum Mechanics
-
----
-
 ## 📈 Highlights
 - 4+ years teaching Chemistry (UG & Senior Secondary); Head of Organic Chemistry Lab  
 - Co-Founder of **Majorana AI Labs Pvt. Ltd. (Jan 2025)** — building AI & Quantum Computing solutions  
