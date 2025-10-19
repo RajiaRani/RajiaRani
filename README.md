@@ -16,9 +16,6 @@
 ---
 
 <h4>💭 Looking Ahead</h4>
-<p>
-I’m enthusiastic about exploring the intersection of <b>AI, Quantum Science, and Web Development</b>. With a strong foundation in Linear Algebra, Calculus, and Quantum Mechanics, I'm ready to take on complex projects and contribute to impactful tech solutions.
-</p>
 
 <p>Let’s connect, collaborate, or build something exciting together! 🌐💻✨</p>
 <ul>
@@ -26,9 +23,6 @@ I’m enthusiastic about exploring the intersection of <b>AI, Quantum Science, a
   <li>📫 Email: <a href="mailto:rajiarani.syal@gmail.com">rajiarani.syal@gmail.com</a></li>
   <li>🧠 Currently exploring: GenAI, RAG, and Quantum Computing</li>
 </ul>
-
----
-
 <h2>🌐 Socials</h2>
 <b> <a href="https://www.linkedin.com/in/rajia-rani-935b71187/">LinkedIn</a> • <a href="https://www.geeksforgeeks.org/user/rajiaracwmt/">GeeksforGeeks</a> • <a href="https://leetcode.com/progress/">LeetCode</a> •<a href="https://github.com/RajiaRani">GitHub</a> </b>
 
