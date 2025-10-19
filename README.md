@@ -42,15 +42,6 @@ I’m enthusiastic about exploring the intersection of <b>AI, Quantum Science, a
 
 ---
 
-## 🤝 Let’s Collaborate
-- **Email:** [rajiarani.syal@gmail.com](mailto:rajiarani.syal@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/rajia-rani-935b71187](https://www.linkedin.com/in/rajia-rani-935b71187/)  
-- **GitHub:** [github.com/RajiaRani](https://github.com/RajiaRani)
-
-> 💡 Open to collaborations, freelance projects, and research in Full-Stack Development, AI/ML, and Quantum Computing.
-
----
-
 <h2>📊 GitHub Stats:</h2>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajiaRani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
 </br>
