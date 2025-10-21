@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> — developing systems that connect computational intelligence with real-world scientific and educational problems.  
+  I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> — developing systems that connect computational intelligence with real world scientific and educational problems.  
 </p>
 
 </ul>
