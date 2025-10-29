@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> — developing systems that connect computational intelligence with real world scientific and educational problems.  
+  I’m passionate about <b>Artificial Intelligence, Machine Learning, and Quantum Computing</b> - developing systems that connect computational intelligence with real world scientific and educational problems.  
 </p>
 
 </ul>
@@ -18,7 +18,7 @@
 ---
 
 ## 📈 Highlights
-- Co-Founder of **Majorana AI Labs Pvt. Ltd. (Jan 2025)** — building AI & Quantum Computing solutions  
+- Co-Founder of **Majorana AI Labs Pvt. Ltd. (Jan 2025)** - building AI & Quantum Computing solutions  
 - Experience deploying secure, documented pipelines for AI and web applications  
 - Strong interdisciplinary foundation bridging **Science, Mathematics, and Computing**
 
