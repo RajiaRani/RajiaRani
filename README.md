@@ -1,4 +1,4 @@
-👋 Hi, I'm <b>Rajia Rani</b> - <b>AI & Full-Stack Developer</b> and <b> Co-Founder of Majorana AI Labs Pvt. Ltd.  </b>  
+👋 Hi, I'm <b>Rajia Rani</b> - <b>AI & Full-Stack Developer</b> and <b> Co-Founder of Majorana AI Labs Pvt. Ltd.</b>  
 <p>
   As the Co-Founder of <b>Majorana AI Labs</b>, a deep-tech startup pioneering innovations in Artificial Intelligence and Quantum Computing, I lead initiatives that bridge science, data, and software to create research-driven products.  
 </p>
