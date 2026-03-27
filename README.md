@@ -1,4 +1,3 @@
-
 # Hi, I'm Rajia Rani 👋
 
 I come from a non-traditional background, transitioning from Chemistry to Artificial Intelligence.
@@ -27,8 +26,11 @@ Learning deeply, building thoughtfully.
 - Experience deploying secure, documented pipelines for AI and web applications  
 - Strong interdisciplinary foundation bridging **Science, Mathematics, and Computing**
 
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rajia-rani-935b71187/  
+- LeetCode: https://leetcode.com/u/user0225zW/  
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/rajiaracwmt?tab=activity  
 
 <!---
 RajiaRani/RajiaRani is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
