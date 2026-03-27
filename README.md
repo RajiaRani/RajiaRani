@@ -15,12 +15,9 @@ I enjoy turning complex ideas into practical systems and continuously improving 
 ## 🎓 Education
 - Master’s in Artificial Intelligence (in progress)
 
+  
 Learning deeply, building thoughtfully.
 
-## 📈 Highlights
-- Co-Founder of **Majorana AI Labs Pvt. Ltd. (Jan 2025)** - building AI & Quantum Computing solutions  
-- Experience deploying secure, documented pipelines for AI and web applications  
-- Strong interdisciplinary foundation bridging **Science, Mathematics, and Computing**
 
 ## 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/rajia-rani-935b71187/  
