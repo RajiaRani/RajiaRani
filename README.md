@@ -1,7 +1,5 @@
 Hi, I'm <b>Rajia Rani</b>
 
-I come from a non-traditional background, transitioning from Chemistry to Artificial Intelligence.
-
 For 4+ years, I taught Chemistry and mentored students in Math and Science. This experience helped me develop strong analytical thinking and the ability to break down complex problems step by step.
 
 In 2023, I transitioned into Artificial Intelligence — and never looked back.
