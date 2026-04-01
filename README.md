@@ -3,7 +3,7 @@ Hi, I'm <b>Rajia Rani</b>
 For 4+ years, I taught Chemistry and mentored students in Math and Science. This experience helped me develop strong analytical thinking and the ability to break down complex problems step by step.
 
 In 2023, I transitioned into Artificial Intelligence — and never looked back.
-- Research Assistant in Computer Science @ USD
+- Research Assistant in Computer Science @ University of South Dakota, USA
 - Working with:
   - Large Language Models (LLMs) and AI Agents
   - PyTorch and GPU-based training
