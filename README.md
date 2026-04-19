@@ -6,7 +6,8 @@ In 2023, I transitioned into Artificial Intelligence — and never looked back.
 - Working with:
   - Large Language Models (LLMs) and AI Agents
   - PyTorch and GPU-based training
-
+ 
+    
 I enjoy turning complex ideas into practical systems and continuously improving how they perform.
 
 ## 🎓 Education
