@@ -5,7 +5,7 @@ In 2023, I transitioned into Artificial Intelligence and never looked back.
 - Research Assistant in Computer Science @ University of South Dakota, USA
 - Working with:
   - Large Language Models (LLMs) and AI Agents
-  - PyTorch and GPU-based training
+  - PyTorch and GPU-based training and Inference
 
 ## 🎓 Education
 - Master’s in Artificial Intelligence (in progress)
