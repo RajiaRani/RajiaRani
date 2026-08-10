@@ -6,7 +6,7 @@ For 4+ years, I taught Chemistry and mentored students in Math and Science. That
 
 In 2023, I transitioned into Artificial Intelligence and never looked back.
 
-Today, I work as a Research Assistant in Computer Science at the University of South Dakota, USA, where I build and experiment with intelligent systems, especially in:
+Today, I work as a <b>Research Assistant</b> in Computer Science at the <b>University of South Dakota, USA</b>, where I build and experiment with intelligent systems, especially in:
 
 - Large Language Models (LLMs)
 - AI Agents
