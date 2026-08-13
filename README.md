@@ -1,4 +1,4 @@
-# Hello, I'm Rajia Rani
+## Hello, I'm Rajia Rani
 
 I come from a non-traditional background, transitioning from Chemistry to Artificial Intelligence.
 
