@@ -8,7 +8,6 @@ In 2023, I transitioned into Artificial Intelligence and never looked back.
 Today, I work as a <b>Research Assistant </b>in Computer Science at the <b>University of South Dakota,</b> USA, where I build and experiment with intelligent systems, especially in:
 - Large Language Models (LLMs)
 - AI Agents
-- PyTorch
 - GPU-based training and inference
 - Model inference optimization and performance evaluation
 - Applied machine learning research
