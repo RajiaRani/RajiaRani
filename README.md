@@ -23,6 +23,3 @@ Learning deeply, building thoughtfully.
 - LeetCode: https://leetcode.com/u/user0225zW/  
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/rajiaracwmt?tab=activity  
 
-<!---
-RajiaRani/RajiaRani is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
