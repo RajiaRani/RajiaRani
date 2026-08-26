@@ -13,8 +13,7 @@ Today, I work as a <b>Research Assistant </b>in Computer Science at the <b>Unive
 - Applied machine learning research
 
 ## 🎓 Education
-- Master’s in Artificial Intelligence (in progress)
-Learning deeply, building thoughtfully.
+- Master’s in Artificial Intelligence 
 
 ## 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/rajia-rani-935b71187/  
