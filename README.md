@@ -12,8 +12,6 @@ Today, I work as a <b>Research Assistant </b>in Computer Science at the <b>Unive
 - Model inference optimization and performance evaluation
 - Applied machine learning research
 
-I enjoy turning complex ideas into practical systems, improving how models perform, and exploring how inference can make AI systems faster, more useful, and more reliable.
-
 ## 🎓 Education
 - Master’s in Artificial Intelligence (in progress)
 Learning deeply, building thoughtfully.
