@@ -10,7 +10,6 @@ Today, I work as a <b>Research Assistant </b>in Computer Science at the <b>Unive
 - AI Agents
 - GPU-based training and inference
 - Model inference optimization and performance evaluation
-- Applied machine learning research
 
 ## 🎓 Education
 - Master’s in Artificial Intelligence 
