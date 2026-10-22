@@ -1,6 +1,4 @@
-## Hello, I'm Rajia Rani
-
-I come from a non-traditional background, transitioning from Chemistry to Artificial Intelligence.
+## Hello, I'm Rajia Rani, an AI/ML Engineer.
 
 For 6 years, I taught Chemistry and mentored students in Math and Science. That experience shaped the way I think: analytically, patiently, and step by step. It also taught me how to break down complex ideas and turn them into clear, practical solutions.
 
